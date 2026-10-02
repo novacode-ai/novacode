@@ -1,0 +1,21 @@
+[submodule "packages/types"]
+	path = packages/types
+	url = https://github.com/novacode-ai/types.git
+[submodule "packages/config"]
+	path = packages/config
+	url = https://github.com/novacode-ai/config.git
+[submodule "packages/tools"]
+	path = packages/tools
+	url = https://github.com/novacode-ai/tools.git
+[submodule "packages/providers"]
+	path = packages/providers
+	url = https://github.com/novacode-ai/providers.git
+[submodule "packages/engine"]
+	path = packages/engine
+	url = https://github.com/novacode-ai/engine.git
+[submodule "packages/ui"]
+	path = packages/ui
+	url = https://github.com/novacode-ai/ui.git
+[submodule "packages/cli"]
+	path = packages/cli
+	url = https://github.com/novacode-ai/cli.git

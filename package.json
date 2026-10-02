@@ -1,0 +1,12 @@
+{
+  "name": "novacode-workspace",
+  "private": true,
+  "scripts": {
+    "build": "pnpm -r run build",
+    "dev": "pnpm --filter @novacode-ai/cli run dev"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "typescript": "^5.0.0"
+  }
+}
